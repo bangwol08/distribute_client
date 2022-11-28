@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="bangwol08.iptime.org" id="5ee4ffd2-b377-400c-ace1-99fae7d733e6" port="50005" nameFormat="DESCRIPTIVE" username="tempuser" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

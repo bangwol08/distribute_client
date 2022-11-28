@@ -1,0 +1,5 @@
+serverName,host,dbPort, AppPort,ID,PW
+ServerA,172.18.0.6,3307,1099,tempuser,qwe123!@#
+ServerB,172.18.0.4,3307,1099,tempuser,qwe123!@#
+ServerC,172.18.0.8,3307,1099,tempuser,qwe123!@#
+ServerD,172.18.0.7,3307,1099,tempuser,qwe123!@#
